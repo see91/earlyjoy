@@ -36,7 +36,7 @@ npm run build
 Node.js服务器：
 npm run start
 
-# 文档快链
+# 文档快链2
 
 - react-router
 https://reacttraining.cn/
