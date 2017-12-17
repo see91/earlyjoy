@@ -1,24 +1,24 @@
-import React, { Component } from 'react';
-import { connect } from 'react-redux';
+import React, {Component} from 'react';
+import {connect} from 'react-redux';
 import actions from '../../redux/actions/index.js';
 import FeedCard from '../../component/feedCard/feedCard.jsx';
 
 @connect(state => ({
   otherInfo: state.otherInfo
-}), { ...actions })
+}), {...actions})
 export default class extends Component {
-  constructor () {
+  constructor() {
     super();
   }
 
-  componentWillMount () {
+  componentWillMount() {
     let userId = this.props.match.params.id;
 
     this.props.getOtherUser(userId)
   }
 
-  render () {
-    let { userName, avatar, list } = this.props.otherInfo;
+  render() {
+    let {userName, avatar, list} = this.props.otherInfo;
 
     return (
       <div className="page-wrap user-page">

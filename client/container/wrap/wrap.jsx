@@ -1,16 +1,14 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 import Header from '../../component/header/index.jsx';
 import Footer from '../../component/footer/index.jsx';
 
 export default class extends Component {
-  constructor () {
+  constructor() {
     super();
-    this.state = {
-
-    };
+    this.state = {};
   }
 
-  render () {
+  render() {
     return (
       <div className="app-container">
         <Header/>

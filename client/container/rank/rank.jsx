@@ -1,18 +1,16 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
 export default class extends Component {
-  constructor () {
+  constructor() {
     super();
-    this.state = {
-
-    };
+    this.state = {};
   }
 
-  componentWillMount () {
+  componentWillMount() {
 
   }
 
-  render () {
+  render() {
     return (
       <div className="page-wrap rank-page">
         排行榜

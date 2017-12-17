@@ -11,11 +11,11 @@ module.exports = (router) => {
   // 【列表】获取我的起床时间列表
   router.post('/api/mylist', async (ctx, next) => {
     let allList = Util.readJson(path.resolve(__dirname, '../mock/api/myList.json'));
-    let { offset, limit } = ctx.request.body;
+    let {offset, limit} = ctx.request.body;
 
     ctx.body = {
-      list: allList.slice(offset, offset+limit),
-      hasMore: offset+limit <= allList.length
+      list: allList.slice(offset, offset + limit),
+      hasMore: offset + limit <= allList.length
     };
   });
 
@@ -38,22 +38,22 @@ module.exports = (router) => {
   // 【列表】获取今日起床列表
   router.post('/api/todaylist', async (ctx, next) => {
     let allList = Util.readJson(path.resolve(__dirname, '../mock/api/todaylist.json'));
-    let { offset, limit } = ctx.request.body;
+    let {offset, limit} = ctx.request.body;
 
     ctx.body = {
       list: allList.slice(offset, offset + limit),
-      hasMore: offset+limit <= allList.length
+      hasMore: offset + limit <= allList.length
     };
   });
 
   // 【列表】获取排行列表
   router.post('/api/ranklist', (ctx, next) => {
     let allList = Util.readJson(path.resolve(__dirname, '../mock/api/rankList.json'));
-    let { offset, limit } = ctx.request.body;
+    let {offset, limit} = ctx.request.body;
 
     ctx.body = {
       list: allList.slice(offset, offset + limit),
-      hasMore: offset+limit <= allList.length
+      hasMore: offset + limit <= allList.length
     };
   });
 
@@ -72,11 +72,11 @@ module.exports = (router) => {
   // 【列表】获取他人的列表
   router.post('/api/otherlist/:id', (ctx, next) => {
     let allList = Util.readJson(path.resolve(__dirname, '../mock/api/otherList.json'));
-    let { offset, limit } = ctx.request.body;
+    let {offset, limit} = ctx.request.body;
 
     ctx.body = {
       list: allList.slice(offset, offset + limit),
-      hasMore: offset+limit <= allList.length
+      hasMore: offset + limit <= allList.length
     };
   });
 };
