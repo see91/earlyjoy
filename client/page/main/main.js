@@ -6,16 +6,18 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 // 路由信息【react-router-dom】
-import { HashRouter, Route, Switch, Redirect } from 'react-router-dom';
+import {HashRouter, Route, Switch, Redirect} from 'react-router-dom';
 
 // 创建hash路由信息【react-router-redux】
-import { ConnectedRouter, routerReducer, routerMiddleware, push } from 'react-router-redux';
+import {ConnectedRouter, routerReducer, routerMiddleware, push} from 'react-router-redux';
 import createHistory from 'history/createHashHistory';
+
 const history = createHistory();
 
 // 创建redux store【react-redux】
-import { Provider } from 'react-redux';
+import {Provider} from 'react-redux';
 import store from '../../redux/index.js';
+
 window._store = store; // 方便调试 并不是好的写法
 
 // 引入组件
@@ -24,7 +26,10 @@ import Index from '../../container/index/index.jsx';
 import Today from '../../container/today/today.jsx';
 import Rank from '../../container/rank/rank.jsx';
 import Mine from '../../container/mine/mine.jsx';
+
 import User from '../../container/user/user.jsx';
+import Detail from '../../container/detail/detail.jsx'
+
 
 ReactDOM.render(
   <Provider store={store}>
@@ -37,8 +42,9 @@ ReactDOM.render(
         <Route path='/rank' component={Rank}/>
         <Route path='/mine' component={Mine}/>
         <Route path='/user' component={User}/>
+        <Route path='/detail' component={Detail}/>
       </Wrap>
     </ConnectedRouter>
   </Provider>
-  ,document.querySelector('.doc')
+  , document.querySelector('.doc')
 );

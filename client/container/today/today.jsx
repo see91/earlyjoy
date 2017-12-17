@@ -1,25 +1,25 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
 export default class extends Component {
-  constructor () {
+  constructor() {
     super();
     this.state = {
       cnt: 0
     };
   }
 
-  componentWillMount () {
+  componentWillMount() {
 
   }
 
-  clickHandler () {
+  clickHandler() {
     this.setState({
-      cnt: this.state.cnt+1
+      cnt: this.state.cnt + 1
     })
   }
 
-  render () {
-    let { cnt } = this.state;
+  render() {
+    let {cnt} = this.state;
 
     return (
       <div className="page-wrap today-page" ref="todayPage">
