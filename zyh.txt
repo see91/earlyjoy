@@ -1,1 +1,500 @@
-测试
+   19  git remote update mengqian1117
+   20  git pull mengqian1117 master
+   21  git remote update mengqian1117
+   22  git pull mengqian1117 master
+   23  git remote update mengqian1117
+   24  git pull mengqian1117 master
+   25  git remote update mengqian1117
+   26  git pull mengqian1117 master
+   27  git remote update mengqian1117
+   28  git pull mengqian1117 master
+   29  git remote update mengqian1117
+   30  git pull mengqian1117 master
+   31  git remote update mengqian1117
+   32  git pull mengqian1117 master
+   33  git remote update mengqian1117
+   34  git pull mengqian1117 master
+   35  git remote update mengqian1117
+   36  git pull mengqian1117 master
+   37  git remote update mengqian1117
+   38  git pull mengqian1117 master
+   39  git remote update mengqian1117
+   40  $ git rebase master 
+   41  $ no files need merging  
+   42  git remote update mengqian1117
+   43  git pull mengqian1117 master
+   44  $ git reset --hard HEAD
+   45  $ git reset --hard HEAD
+   46  $ git reset --hard HEAD
+   47  git reset --hard HEAD
+   48  git remote update mengqian1117
+   49  git pull mengqian1117 master
+   50  git reset --hard HEAD
+   51  git remote update mengqian1117
+   52  git pull mengqian1117 master
+   53  git remote update mengqian1117
+   54  git remote update mengqian1117
+   55  git pull mengqian1117 master
+   56  git reset --hard HEAD
+   57  git remote update mengqian1117
+   58  git remote update mengqian1117
+   59  git remote update mengqian1117
+   60  git remote update mengqian1117
+   61  git pull mengqian1117 master
+   62  git remote update mengqian1117
+   63  git pull mengqian1117 master
+   64  git remote update mengqian1117
+   65  git pull mengqian1117 master
+   66  git reset --hard HEAD
+   67  git remote update mengqian1117
+   68  git remote update mengqian1117
+   69  git pull mengqian1117 master
+   70  git reset --hard HEAD
+   71  git remote update mengqian1117
+   72  git remote update mengqian1117
+   73  git remote update mengqian1117
+   74  git remote update mengqian1117
+   75  git remote update mengqian1117
+   76  git remote update mengqian1117
+   77  git pull mengqian1117 master
+   78  git remote update mengqian1117
+   79  git clone https://github.com/zoulinaini/JS201710.git 
+   80  cd JS201710
+   81  Git remote -v
+   82  git remote add mengqian1117
+   83  git remote add mengqian1117 https://github.com/mengqian1117/JS201710.git
+   84  git remote -v
+   85  git remote update mengqian1117
+   86  git pull mengqian1117 master
+   87  git clone https://github.com/zoulinaini/JS201710.git
+   88  cd JS201710
+   89  Git remote -v
+   90  git remote add mengqian1117 https://github.com/mengqian1117/JS201710.git
+   91  git remote -v
+   92  git remote update mengqian1117
+   93  git pull mengqian1117 master
+   94  git clone https://github.com/zoulinaini/JS201710.git
+   95  cd JS201710
+   96  cd JS201710
+   97  Git config --global user.name 
+   98  Git config --global user.name“"zhouyinghao"
+   99  git config --list
+  100  git clone https://github.com/zoulinaini/JS201710.git
+  101  git clone https://github.com/zoulinaini/JS201710.git 
+  102  cd JS201710
+  103  git config --list
+  104  git clone https://github.com/zoulinaini/JS201710.git 
+  105  cd JS201710
+  106  https://github.com/mengqian1117/JS201710.git
+  107  git remote add mengqian1117 https://github.com/mengqian1117/JS201710.git
+  108  cd JS201710
+  109  https://github.com/zoulinaini/JS201710.git
+  110  git config --global user.name "zhouyinghao"
+  111  git config --global user.email"541218502@qq.com"
+  112  git config --list
+  113  https://github.com/mengqian1117/JS201710.git
+  114  https://github.com/mengqian1117/JS201710.git
+  115  git clone https://github.com/mq0/JS201710.git
+  116  cd JS201710
+  117  git remote add mengqian1117 https://github.com/mengqian1117/JS201710.git
+  118  git remote update mengqian1117
+  119  git pull mengqian1117 master
+  120  git add -A
+  121  git commit -m "重新下载"
+  122  git remote update mengqian1117
+  123  git pull mengqian1117 master
+  124  git remote update mengqian1117
+  125  git pull mengqian1117 master
+  126  git remote update mengqian1117
+  127  git pull mengqian1117 master
+  128  git remote update mengqian1117
+  129  git pull mengqian1117 master
+  130  git remote update mengqian1117
+  131  git pull mengqian1117 master
+  132  git remote update mengqian1117
+  133  git pull mengqian1117 master
+  134  git remote update mengqian1117
+  135  git pull mengqian1117 master
+  136  git remote update mengqian1117
+  137  git pull mengqian1117 master
+  138  git remote update mengqian1117
+  139  git pull mengqian1117 master
+  140  git remote update mengqian1117
+  141  git pull mengqian1117 master
+  142  https://github.com/zhufengzhufeng/201710node.git teacher10
+  143  https://github.com/zhufengzhufeng/201710node.git
+  144  git clone https://github.com/zhufengzhufeng/201710node.git
+  145  git pull origin master
+  146  git pull origin master
+  147  git pull origin master
+  148  git pull origin master
+  149  git pull origin master
+  150  git pull origin master
+  151  git pull origin master
+  152  git pull origin master
+  153  git pull origin master
+  154  git pull origin master
+  155  git pull origin master
+  156  git pull origin master
+  157  git pull origin master
+  158  git pull origin master
+  159  git pull origin master
+  160  git pull origin master
+  161  git clone https://github.com/zhufengzhufeng/201710node.git 
+  162  git pull origin master
+  163  git pull origin master
+  164  git pull origin master
+  165  git config --list
+  166  git init
+  167  ls
+  168  ls-al
+  169  touch 1.txt
+  170  ls
+  171  ls-all
+  172  vi 1.txt
+  173  cat 1.txt
+  174  set number
+  175  clear
+  176  git status
+  177  git add -A
+  178  git commit -m "第一次"
+  179  clear
+  180  git log
+  181  git status
+  182  git checkout .
+  183  cat 1.txt
+  184  cat 1.txt
+  185  git add .
+  186  git status
+  187  git reset HEAD .
+  188  git status
+  189  git checkout .
+  190  cat 1.txt
+  191  history >2.txt
+  192  clear
+  193  rm 2.txt
+  194  vi 1.txt
+  195  git commit -a -m "暂存区直达历史区"
+  196  cat 1.txt
+  197  git raflog
+  198  git reflog
+  199  git reset --hard a53d839
+  200  cat 1.txt
+  201  git branch
+  202  git branch dev
+  203  git checkout dev
+  204  git branch -D dev
+  205  touch 1.js
+  206  git commit -m "add 1.js"
+  207  git commit -m"分支文件"
+  208  clear
+  209  git commit -b -m "add 1.js"
+  210  git commit -a -m "add 1.js"
+  211  echo 123 >> 1.js
+  212  cat 1.js
+  213  rm 1.txt
+  214  re 1.js
+  215  rm 1.js
+  216  git add .
+  217  git pull origin master
+  218  rm -rf git
+  219  git checkout marster
+  220  git checkout master
+  221  git branch -D dev
+  222  rm -rf git
+  223  rm -rf .git
+  224  clear
+  225  pwd print working directory
+  226  git init
+  227  touch 1.txt
+  228  vi 1.txt
+  229  cat 1.txt
+  230  git add .
+  231  git commit -m "one"
+  232  git branch my
+  233  git chenckout my
+  234  git checkout my
+  235  git commit -a -m "two"
+  236  cat 1.txt
+  237  get log
+  238  git log
+  239  git checkout master
+  240  git merge my
+  241  cat 1.txt
+  242  git checkout my
+  243  git checkout master
+  244  echo nihao >> 1.txt
+  245  cat 1.txt
+  246  git branch -D my
+  247  touch index.css
+  248  git init
+  249  git add .
+  250  git commit -m 'init'
+  251  git checkout -b dev
+  252  vi index.css
+  253  cat index.css
+  254  git add .
+  255  git commit -m 'dev red'
+  256  git checkout master
+  257  vi index.css
+  258  git add .
+  259  git commit -m 'master green'
+  260  git merge dev
+  261  git add .
+  262  git commit -m 'green'
+  263  git log
+  264  touch README.md
+  265  git init
+  266  git branch
+  267  git branch -D dev
+  268  git branch
+  269  git add .
+  270  git commit -m'node'
+  271  git remote add origin https://github.com/zhouyinghao/node-project.git
+  272  git push origin master
+  273  git status
+  274  git pull origin master
+  275  touch index.js
+  276  git add .
+  277  git commit -m 'add index.js'
+  278  git push origin master
+  279  git pull origin master
+  280  git push origin master
+  281  git checkout -b gh-pages
+  282  ls
+  283  git add .
+  284  git commit -m 'add pages'
+  285  git push origin gh-pages
+  286  git clone https://github.com/zhouyinghao/node-project.git node10
+  287  git clone https://github.com/zhouyinghao/node-project.git
+  288  git add .
+  289  git commit -m "project"
+  290  git push origin master
+  291  git push origin gh-pages
+  292  git checkout master
+  293  git clone https://github.com/zhufengzhufeng/node-project.git
+  294  git clone https://github.com/zhouyinghao/node-project.git
+  295  ls
+  296  git status
+  297  git add .
+  298  git commit -m 'new'
+  299  git clone https://github.com/zhouyinghao/node-project.git
+  300  git status
+  301  git clone https://github.com/zhouyinghao/node-project.git
+  302  git add .
+  303  git commit -m "new"
+  304  git push origin master
+  305  git remote -v
+  306  ls
+  307  cd node-project/
+  308  git remote 0v
+  309  git remote -v
+  310  git clone n master
+  311  fatal: 'origin' does not appear to be a git repository
+  312  fatal: Could not read from remote repository.
+  313  Please make sure you have the
+  314  clear
+  315  git clone https://github.com/zhouyinghao/node-project-1.git
+  316  git init
+  317  clear
+  318  git init
+  319  git remote -v
+  320  mkdir git4
+  321  cd git4
+  322  git init
+  323  git clone https://github.com/zhouyinghao/node-project-1.git
+  324  git add .
+  325  git commit -m 'new'
+  326  git push orgin master
+  327  git remote -v
+  328  ls
+  329  rm -rf git4
+  330  cd day1
+  331  mkdir git4
+  332  cd git4
+  333  git init
+  334  git clone https://github.com/zhouyinghao/node-project-1.git
+  335  git add .
+  336  git commit -m"new"
+  337  git push origin master 
+  338  ls
+  339  cd node-project-1/
+  340  la
+  341  ls
+  342  cd ../
+  343  rm -rf .git/
+  344  cd node-project-1/
+  345  cd ..
+  346  rm -rf node-project-1/
+  347  git clone https://github.com/zhouyinghao/node-project-1.git
+  348  cd node-project-1/
+  349  ls
+  350  git add .
+  351  git commit -m"new"
+  352  git push origin master
+  353  git clone https://github.com/zhouyinghao/node-project-1.git
+  354  ls
+  355  cd node-project-1/
+  356  git add .
+  357  git commit -m 'news'
+  358  git push origin master
+  359  git init
+  360  git checkout -b dev
+  361  touch index.html
+  362  git add .
+  363  git commit -m"news"
+  364  git push origin dev
+  365  git remote add origin https://github.com/zhouyinghao/node-project.git
+  366  git push origin dev
+  367  git checkout master
+  368  git branch master
+  369  git branch
+  370  git checkout master
+  371  git branch -D  dev
+  372  git pull origin master
+  373  git pull origin master
+  374  git pull origin master
+  375  git pull origin master
+  376  git pull origin master
+  377  git pull origin master
+  378  git pull origin master
+  379  git pull origin master
+  380  git pull origin master
+  381  git pull origin master
+  382  git pull origin master
+  383  git pull origin master
+  384  git pull origin master
+  385  git pull origin master
+  386  git pull origin master
+  387  git pull origin master
+  388  git pull origin master
+  389  git pull origin master
+  390  git pull origin master
+  391  git pull origin master
+  392  git pull origin master
+  393  git pull origin master
+  394  git pull origin master
+  395  git pull origin master
+  396  git pull origin master
+  397  git pull origin master
+  398  git pull origin master
+  399  git pull origin master
+  400  ssh root@114.215.18.135
+  401  ssh root@114.215.18.135
+  402  apt-get update
+  403  apt-get install npm
+  404  ssh root@114.215.18.135
+  405  ssh root@114.215.18.135
+  406  ssh root@114.215.18.135
+  407  pwd
+  408  git config --list
+  409  git init
+  410  git status
+  411  git clone https://github.com/zhufengnodejs/201710react.git
+  412  git clone https://github.com/zhufengnodejs/zhufeng_redux_lessons.git
+  413  git clone https://github.com/zhufengnodejs/201710weekend.git
+  414  git pull origin master
+  415  git remote add origin https://github.com/zhufengnodejs/201710react.git
+  416  git pull origin master
+  417  cd 201710react
+  418  git pull origin master
+  419  git remote add origin https://github.com/zhufengnodejs/201710weekend.git
+  420  git pull origin master
+  421  git remote add origin https://github.com/zhufengnodejs/zhufeng_redux_lessons.git
+  422  git pull origin master
+  423  git pull origin master
+  424  git pull origin master
+  425  git pull origin master
+  426  git pull origin master
+  427  npm init -y
+  428  git init
+  429  git clone https://github.com/see91/React-Farfetch.git
+  430  git init
+  431  git clone https://github.com/see91/React-Farfetch.git
+  432  git clone https://github.com/ryanzhao1993/lesson
+  433  git clone https://github.com/ryanzhao1993/lesson
+  434  git init
+  435  git clone https://github.com/ryanzhao1993/lesson
+  436  git clone https://github.com/ryanzhao1993/lesson
+  437  git init
+  438  git clone https://github.com/zhufengnodejs/201710router
+  439  git pull origin master
+  440  git pull origin master
+  441  git pull origin master
+  442  git clone https://github.com/ryanzhao1993/lesson
+  443  git clone https://github.com/ryanzhao1993/lesson
+  444  git clone https://github.com/zhufengnodejs/201710react.git
+  445  git pull origin master
+  446  git pull origin master
+  447  git pull origin master
+  448  git pull origin master
+  449  git pull origin master
+  450  git clone  https://github.com/ryanzhao1993/lesson
+  451  git clone https://github.com/see91/React-farFetch.git
+  452  git pull origin master
+  453  git pull origin master
+  454  git clone https://github.com/see91/React-farFetch.git
+  455  git clone https://github.com/see91/React-farFetch.git
+  456  git pull origin master
+  457  git init
+  458  git clone https://github.com/zhufengnodejs/zhufengketang.git
+  459  git pull origin master
+  460  git clone https://github.com/zhufengnodejs/201710zhufengketang.git
+  461  git pull origin master
+  462  git pull origin master
+  463  git pull origin master
+  464  git init
+  465  git clone https://github.com/geeknull/earlyjoy.git
+  466  cd earlyjoy
+  467  git clone https://github.com/geeknull/earlyjoy.git
+  468  cd earlyjoy
+  469  git checkout scaffold
+  470  npm i
+  471  npm i
+  472  npm i
+  473  git pull origin master
+  474  git pull origin master
+  475  git init
+  476  git clone 
+  477  项目
+  478  git clone https://github.com/see91/React-farFetch.git
+  479  git clone https://github.com/see91/React-farFetch.git
+  480  git checkout -b zyh
+  481  git init
+  482  git clone 
+  483  git clone https://github.com/see91/React-farFetch.git
+  484  git checkout -b zyh
+  485  git add .
+  486  git commit -m'实现列表页数据获取，点击查看详情'
+  487  git push orgin zyh
+  488  git push origin zyh
+  489  git add .
+  490  git commit -m'获取列表页数据，查看详情'
+  491  git push origin zyh
+  492  git merge zyh
+  493  git checkout -b zyh
+  494  git add .
+  495  git commit -m'获取到列表数据，跳转详情页'
+  496  git push origin zyh
+  497  git init
+  498  git clone https://github.com/see91/earlyjoy.git
+  499  git brach -a
+  500  git branch -a
+  501  git branch -a
+  502  git checkout scaffold
+  503  git checkout zyh
+  504  git branch -a
+  505  git checkout zhouyinghao
+  506  git checkout -b zyh
+  507  touch zyh.html
+  508  touch zyh.txt
+  509  git add .
+  510  git commit -m'测试'
+  511  git push origin zyh
+  512  git status
+  513  cat zyh.txt
+  514  vi zyh.txt
+  515  cat zyh.txt
+  516  set number
+  517  git log
+  518  history >zyh.txt
