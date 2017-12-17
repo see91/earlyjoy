@@ -1,7 +1,7 @@
 {
   "name": "earlyjoy",
   "version": "1.0.0",
-  "description": "",
+  "description": "😳The course for react stack. earlyjoy,enjoy it!",
   "main": "index.js",
   "scripts": {
     "dev-web": "cross-env NODE_ENV=develop webpack-dev-server --config ./client/webpack.config.js",
@@ -56,5 +56,13 @@
     "webpack": "^2.5.1",
     "webpack-dashboard": "^0.4.0",
     "webpack-dev-server": "^2.4.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/see91/earlyjoy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/see91/earlyjoy/issues"
+  },
+  "homepage": "https://github.com/see91/earlyjoy#readme"
 }
