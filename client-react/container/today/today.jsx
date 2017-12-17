@@ -1,3 +1,7 @@
+<<<<<<< HEAD:client/container/today/today.jsx
+=======
+import './today.less';
+>>>>>>> 0a25f268b839e3c14f827d2e8fb9f39ad7252ac8:client-react/container/today/today.jsx
 import React, { Component } from 'react';
 
 export default class extends Component {
@@ -9,6 +13,7 @@ export default class extends Component {
   }
 
   componentWillMount () {
+<<<<<<< HEAD:client/container/today/today.jsx
 
   }
 
@@ -16,6 +21,10 @@ export default class extends Component {
     this.setState({
       cnt: this.state.cnt+1
     })
+=======
+    let isToadyListIsInit = this.props.todayListInfo.isInit;
+    !isToadyListIsInit && this.props.getToadyList();
+>>>>>>> 0a25f268b839e3c14f827d2e8fb9f39ad7252ac8:client-react/container/today/today.jsx
   }
 
   render () {

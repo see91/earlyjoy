@@ -36,7 +36,11 @@ npm run build
 Node.js服务器：
 npm run start
 
+<<<<<<< HEAD
 # 文档快链
+=======
+# 文档快链2
+>>>>>>> 0a25f268b839e3c14f827d2e8fb9f39ad7252ac8
 
 - react-router
 https://reacttraining.cn/

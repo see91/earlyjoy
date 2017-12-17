@@ -1,3 +1,7 @@
+<<<<<<< HEAD:client/component/footer/index.jsx
+=======
+import './index.less';
+>>>>>>> 0a25f268b839e3c14f827d2e8fb9f39ad7252ac8:client-react/component/footer/index.jsx
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
