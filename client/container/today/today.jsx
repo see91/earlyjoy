@@ -1,21 +1,28 @@
 import React, { Component } from 'react';
-
+import {ajax} from "../../util/index"
 export default class extends Component {
   constructor () {
     super();
     this.state = {
-      cnt: 0
+      userName:[],active:[],getupTime:[],rank:[]
     };
   }
 
   componentWillMount () {
+    ajax({
+      method:"GET",
+      url: 'http:/localhost:8333/api/myinfo',
+      headers:{'Content-Type':"application/json"},
+    }).then(res=>{
+        let {userName,active,getupTime,rank} =res;
+        this.setState={userName,active,getupTime,rank}
+      }
 
+    )
   }
 
   clickHandler () {
-    this.setState({
-      cnt: this.state.cnt+1
-    })
+
   }
 
   render () {
@@ -23,12 +30,11 @@ export default class extends Component {
 
     return (
       <div className="page-wrap today-page" ref="todayPage">
-        今日列表
-        <br/>
-        <span>使用 react local state 切换路由后数据就不见了</span>
-        <button onClick={this.clickHandler.bind(this)}>点击数量加一</button>
-        <br/>
-        <span>数量：</span><span>{cnt}</span>
+       <h2>今日好友情况/今日好友列表</h2>
+
+          <div>
+            <img src={this.state.active}/>
+          </div>
       </div>
     )
   }
